@@ -58,7 +58,7 @@ Thread.sleep(3000);
 		driver.findElement(By.xpath("(//a[text()='Customer Service'])[1]")).click();
 		
 		Thread.sleep(3000);
-		
+		// line added on 61
 	  
 	}
 

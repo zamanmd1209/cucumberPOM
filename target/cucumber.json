@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4920616400,
+              "duration": 5653379700,
               "status": "passed"
             },
             "line": 8,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 3038325100,
+              "duration": 3038123500,
               "status": "passed"
             },
             "line": 9,
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-04-26T22:30:39.411Z",
+        "start_timestamp": "2023-04-26T23:03:03.771Z",
         "line": 12,
         "name": "Validate ASk Question Link on main page",
         "description": "",
@@ -46,7 +46,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9675514900,
+              "duration": 10243421500,
               "status": "passed"
             },
             "line": 16,
@@ -58,7 +58,7 @@
           },
           {
             "result": {
-              "duration": 3309104000,
+              "duration": 3306336500,
               "status": "passed"
             },
             "line": 17,
@@ -87,7 +87,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3814878400,
+              "duration": 4192252800,
               "status": "passed"
             },
             "line": 8,
@@ -99,7 +99,7 @@
           },
           {
             "result": {
-              "duration": 3013601300,
+              "duration": 3031299100,
               "status": "passed"
             },
             "line": 9,
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-04-26T22:31:00.361Z",
+        "start_timestamp": "2023-04-26T23:03:26.021Z",
         "line": 19,
         "name": "Validate ASk Question Link on main page2",
         "description": "",
@@ -122,7 +122,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9629220000,
+              "duration": 11275183900,
               "status": "passed"
             },
             "line": 20,
@@ -134,7 +134,7 @@
           },
           {
             "result": {
-              "duration": 8859952300,
+              "duration": 7601294300,
               "status": "passed"
             },
             "line": 21,
@@ -146,7 +146,7 @@
           },
           {
             "result": {
-              "duration": 6033361000,
+              "duration": 6062297000,
               "status": "passed"
             },
             "line": 26,
@@ -158,7 +158,7 @@
           },
           {
             "result": {
-              "duration": 4543548300,
+              "duration": 4894552300,
               "status": "passed"
             },
             "line": 33,
@@ -170,7 +170,7 @@
           },
           {
             "result": {
-              "duration": 3276336200,
+              "duration": 3250039900,
               "status": "passed"
             },
             "line": 34,
