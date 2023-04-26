@@ -1,0 +1,11 @@
+com\qa\pages\LoginPage.class
+com\qa\pageModel\fidelityAskQuestionsPageModel.class
+com\qa\pageModel\HomePage.class
+com\qa\runner\TestRunners.class
+com\qa\util\BasePage.class
+com\qa\util\TestUtil.class
+com\qa\pages\HomePage.class
+com\qa\stepDefinitions\fidelityAskQuestionsSteps.class
+com\qa\stepDefinitions\HomePageSteps.class
+com\qa\util\TestBase.class
+com\qa\pageModel\LoginPage.class

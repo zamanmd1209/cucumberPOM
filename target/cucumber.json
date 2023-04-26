@@ -1,0 +1,218 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 7,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4920616400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user opens chrome browser_",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_opens_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3038325100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user is on fidelity main page",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_is_on_fidelity_main_page()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-04-26T22:30:39.411Z",
+        "line": 12,
+        "name": "Validate ASk Question Link on main page",
+        "description": "",
+        "id": "fidelity-ask-questions-page-and-functionality;validate-ask-question-link-on-main-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9675514900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user click on customer service link",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_click_customerServiceLink()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3309104000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user closes the browser",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_closes_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@fidelityAskQuestions"
+          },
+          {
+            "name": "@test3"
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3814878400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user opens chrome browser_",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_opens_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3013601300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user is on fidelity main page",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_is_on_fidelity_main_page()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-04-26T22:31:00.361Z",
+        "line": 19,
+        "name": "Validate ASk Question Link on main page2",
+        "description": "",
+        "id": "fidelity-ask-questions-page-and-functionality;validate-ask-question-link-on-main-page2",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9629220000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user click on customer service link",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_click_customerServiceLink()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8859952300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user click on login link",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_clicOn_loginLink()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6033361000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user validate ask questions link",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_validate_askQuestionLink()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4543548300,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user click on ask questions link",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_click_on_ask_questions_link()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3276336200,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user closes the browser",
+            "match": {
+              "location": "fidelityAskQuestionsSteps.user_closes_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@fidelityAskQuestions"
+          },
+          {
+            "name": "@test3"
+          }
+        ]
+      }
+    ],
+    "name": "Fidelity Ask Questions page and functionality",
+    "description": "",
+    "id": "fidelity-ask-questions-page-and-functionality",
+    "keyword": "Feature",
+    "uri": "file:/C:/MdFiles/eclipse-workspace/CucumberPOM/src/test/java/com/qa/features/fidelityAskQuestions.feature",
+    "tags": [
+      {
+        "name": "@fidelityAskQuestions",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@test3",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
